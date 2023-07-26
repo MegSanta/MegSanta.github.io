@@ -1,0 +1,17 @@
+.class {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.custom-image{
+    width: 200px;
+}
+
+.custom-text{
+    padding:20px
+}
+
+.small-button img{
+    width: 50px;
+}
